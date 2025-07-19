@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## My name is Parsa Raza! 🕋
 <!--
 **IParsaRaza/IParsaRaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: parsa.r0330@gmail.com or praza@ebnet.org
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I've written 3 manuscripts and am waiting to get older to publish! >>>
-- 🎒 Grade: I'm currently in the 8th grade 
+- 🎒 Grade: I'm currently in the 9th grade 
 -->
